@@ -3,6 +3,7 @@ public class ClassToBeTested {
         Integer sum = a + b;
         return sum;
         //comment from git
+
     }
     
      public static Integer substractNumbers(Integer a, Integer b) {
