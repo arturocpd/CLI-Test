@@ -2,7 +2,7 @@ public class ClassToBeTested {
     public static Integer addNumbers(Integer a, Integer b) {
         Integer sum = a + b;
         return sum;
-        //comment 2 in CLI
+        //comment 4 in CLI
     }
     
      public static Integer substractNumbers(Integer a, Integer b) {
